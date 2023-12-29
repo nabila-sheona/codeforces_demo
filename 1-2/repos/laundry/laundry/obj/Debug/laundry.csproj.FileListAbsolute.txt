@@ -1,0 +1,11 @@
+D:\Users\hp\source\repos\laundry\laundry\bin\Debug\laundry.exe.config
+D:\Users\hp\source\repos\laundry\laundry\bin\Debug\laundry.exe
+D:\Users\hp\source\repos\laundry\laundry\bin\Debug\laundry.pdb
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.csproj.AssemblyReference.cache
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.csproj.SuggestedBindingRedirects.cache
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.Form1.resources
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.Properties.Resources.resources
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.csproj.GenerateResource.cache
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.csproj.CoreCompileInputs.cache
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.exe
+D:\Users\hp\source\repos\laundry\laundry\obj\Debug\laundry.pdb

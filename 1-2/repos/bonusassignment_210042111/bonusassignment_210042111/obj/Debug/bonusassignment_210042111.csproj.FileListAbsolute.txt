@@ -1,0 +1,8 @@
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\obj\Debug\bonusassignment_210042111.csproj.AssemblyReference.cache
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\obj\Debug\bonusassignment_210042111.csproj.SuggestedBindingRedirects.cache
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\obj\Debug\bonusassignment_210042111.csproj.CoreCompileInputs.cache
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\bin\Debug\bonusassignment_210042111.exe.config
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\bin\Debug\bonusassignment_210042111.exe
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\bin\Debug\bonusassignment_210042111.pdb
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\obj\Debug\bonusassignment_210042111.exe
+D:\Users\hp\source\repos\bonusassignment_210042111\bonusassignment_210042111\obj\Debug\bonusassignment_210042111.pdb
