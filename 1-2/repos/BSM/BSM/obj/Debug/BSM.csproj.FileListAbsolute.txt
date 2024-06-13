@@ -1,6 +1,0 @@
-D:\Users\hp\source\repos\BSM\BSM\obj\Debug\BSM.csproj.AssemblyReference.cache
-D:\Users\hp\source\repos\BSM\BSM\obj\Debug\BSM.csproj.SuggestedBindingRedirects.cache
-D:\Users\hp\source\repos\BSM\BSM\obj\Debug\BSM.Form1.resources
-D:\Users\hp\source\repos\BSM\BSM\obj\Debug\BSM.Properties.Resources.resources
-D:\Users\hp\source\repos\BSM\BSM\obj\Debug\BSM.csproj.GenerateResource.cache
-D:\Users\hp\source\repos\BSM\BSM\obj\Debug\BSM.csproj.CoreCompileInputs.cache
