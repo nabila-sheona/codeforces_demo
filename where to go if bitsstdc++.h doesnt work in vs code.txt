@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include
+
+paste the bits folder
+
+if you dont have it, create it from searching google and the codeforce instruction
+
+https://www.youtube.com/watch?v=pyn0TjUnf18
+
+https://codeforces.com/blog/entry/118427
